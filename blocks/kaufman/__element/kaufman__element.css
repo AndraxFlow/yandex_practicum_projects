@@ -1,0 +1,9 @@
+.kaufman__element {
+    top: 0;
+    height: 877px;
+    width: 877px;
+    position: absolute;
+    right: -210px;
+    z-index: 0;
+    animation: rotation 20s infinite;
+  }

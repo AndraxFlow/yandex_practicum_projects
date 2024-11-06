@@ -1,0 +1,7 @@
+.footer__colomn_content_social {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  

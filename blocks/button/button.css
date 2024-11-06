@@ -1,0 +1,7 @@
+.button {
+    color: #2f80ed;
+    text-decoration: none;
+  } 
+.button:focus {
+  color: rgb(116, 174, 178);
+}

@@ -1,0 +1,17 @@
+.footer__colomns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    color: white;
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .footer__colomn {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
